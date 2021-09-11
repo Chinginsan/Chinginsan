@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Chinginsan
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning  programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Chinginsan/Chinginsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
